@@ -1,7 +1,7 @@
 <div class="outer">
-    <div></div>
-    <div></div>
-    <div></div>
+    <div>1</div>
+    <div>2</div>
+    <div>3</div>
 </div>
 
 
@@ -9,11 +9,17 @@
 
     *{
         box-sizing: border-box;
-        margin: 0;
+        margin: 1;
         
     }
     .outer{
         width: 100%;
+    }
+
+    .imgboxs{
+        width:30%;
+        display:flex;
+        justify-content: space-evenly;
     }
 
 </style>
