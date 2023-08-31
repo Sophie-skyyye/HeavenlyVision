@@ -14,6 +14,14 @@
             <p>Gallary</p>
             <p>The Tours</p>
         </div>       
+        <div class= "services">
+            <h1>
+                Services
+            </h1>
+            <p>Equipment</p>
+            <p>Bus ride</p>
+            <p>Locations</p>
+        </div>      
     </footer>
 </div>
 
