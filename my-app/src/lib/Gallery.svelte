@@ -1,35 +1,41 @@
 <div class="outer">
-    <div class="imgboxs">1</div>
-    <div class="imgboxs">2</div>
-    <div class="imgboxs">3</div>
+    <div class="imgboxs"><img src="img/img1.jpg"></div>
+    <div class="imgboxs"><img src="img/img2.jpg"></div>
+    <div class="imgboxs"><img src="img/img3.jpg"></div>
 </div>
 
+<div class="outer">    
+    <div class="imgboxs"><img src="img/img4.jpg"></div>
+    <div class="imgboxs"><img src="img/img5.jpg"></div>
+    <div class="imgboxs"><img src="img/img6.jpg"></div>
+</div>
 
 
 <style>
 
     *{
         box-sizing: border-box;
-        margin: 1;
+        margin: 0;
         
     }
     .outer{
         width: 100%;
         display:flex;
         flex-direction: row;
+        justify-content: center;
     }
 
     .imgboxs{
         width:30%;
         display:flex;
-        justify-content: space-evenly;
-        justify-content: center;
         align-items: center;
     }
-
+ 
     .imgboxs img{
-        justify-content: center;
-        align-items: center;
+        display: flex;
+        justify-content: space-evenly;
+        width: 100%;
+        padding: 10px;
     }
 
 </style>
