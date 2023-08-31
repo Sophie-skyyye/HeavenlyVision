@@ -1,7 +1,12 @@
 <div class="footer">
     <footer>
-        <p>HeavenlyVision</p>
-        <p>contact info</p>
+        <div class = "contactInfo">
+            <h1>
+                Contact Info
+            </h1>
+            <p>heavenlyvision@gmail.com</p>
+            <p>PH: 03 789 97490</p>
+        </div>       
     </footer>
 </div>
 
