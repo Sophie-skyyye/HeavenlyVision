@@ -1,7 +1,7 @@
 <div class="footer">
     <footer>
-        <p>Author: Sophie Dickerson</p>
-        <p>Web semester 2-2023</p>
+        <p>HeavenlyVision</p>
+        <p>contact info</p>
     </footer>
 </div>
 
