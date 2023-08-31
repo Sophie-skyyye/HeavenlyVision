@@ -19,7 +19,7 @@
     <div>
          
     </div>
-    <title> Hevaenly Vision</title>
+    <title> Heavenly Vision</title>
     <div class= 'navbar'>       
         <img src="logo.png"
         width="200"
